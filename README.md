@@ -1,6 +1,6 @@
 # Ice Cream Machine
 Simple Java App that illustrates the use of threads and canvas:
-- Add a flavor by specifying the name and the color (color should be in hex format as fffff)
+- Add a flavor by specifying the name and the color (color should be in hex format as ffffff)
 
 **Example:**
 
